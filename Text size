@@ -1,0 +1,6 @@
+<TextView
+android:text="How are you today birthday boy"
+android:background="@android:colour/darker_grey"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:textsize="45Sp" />
