@@ -1,0 +1,5 @@
+<TextView
+android:text="Happy Holidays to u all"
+android:background="@android:colour/darker_gray"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content" />
